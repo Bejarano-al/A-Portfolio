@@ -99,15 +99,15 @@ body {
     width: 20px;
 }
 
-/* Social Links - Simple Blue Buttons */
+/* Social Links */
 .social-links {
     display: flex;
+    justify-content: center;
     gap: 1rem;
     margin: 1.5rem 0;
 }
 
 .social-btn {
-    flex: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -118,6 +118,7 @@ body {
     transition: all 0.3s ease;
     color: white;
     font-weight: 600;
+    min-width: 120px;
 }
 
 .github-btn {
