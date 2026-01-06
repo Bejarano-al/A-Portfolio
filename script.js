@@ -50,6 +50,10 @@ document.addEventListener('DOMContentLoaded', function() {
             // CERTIFICATE IMAGE PATH
             preview: '<img src="certificates/software-engineering.jpg" alt="Software Engineering" style="max-width: 100%; border-radius: 5px;">'
         },
+        german: {
+            title: "German Language Certificate",
+            preview: '<img src="certificates/german-certificate.jpg" alt="German Language Certificate" style="max-width: 100%; border-radius: 5px;">'
+        },
         carpentry: {
             title: "Certificate in Carpentry",
             preview: '<img src="certificates/woodworking-certificate.jpg" alt="wood working certificate">'
