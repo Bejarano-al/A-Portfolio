@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 "Customizable exercise selection based on the selected muscle group",
                 "Automatic exercise completion",
                 "Provides exercise details",
-                "Structured workout routine with warm-up"
+                "Structured workout routine with warm up"
             ],
             technologies: ["Python", "Data Structures", "Algorithm Design", "Fitness Planning"],
             videoType: "local",
